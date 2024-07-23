@@ -1,16 +1,24 @@
-# flutter_application_1
+# portfolio_5458370
+# Edom Efrem
 
-A new Flutter project.
+Dies ist mein Flutter-Portfolio-Projekt. Es enthält Beispiele und Demonstrationen meiner Arbeit mit Flutter.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+1. Stellen Sie sicher, dass Flutter installiert ist. Folgen Sie der [Flutter-Installationsanleitung](https://flutter.dev/docs/get-started/install).
+2. Klonen Sie dieses Repository:https://github.com/eded25/portfolio_5458370_ver2
 
-A few resources to get you started if this is your first Flutter project:
+3. Wechseln Sie in das Projektverzeichnis:
+cd portfolio_5458370_ver2
+4. Installieren Sie die Abhängigkeiten:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Ausführen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Stellen Sie sicher, dass ein Emulator läuft oder ein physisches Gerät angeschlossen ist.
+2. Starten Sie die Anwendung:
+flutter run
+
+## Lizenz
+
+Dieses Projekt ist unter der MIT-Lizenz lizenziert.
